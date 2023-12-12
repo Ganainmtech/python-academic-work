@@ -1,5 +1,0 @@
-goodnight,dobranoc
-hello,czesc
-thank you,dziekuje
-good morning,dzien dobry
-please,prosze
