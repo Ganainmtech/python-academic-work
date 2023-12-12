@@ -1,0 +1,5 @@
+because,poniewaz
+tomorrow,jutro
+yesterday,wczoraj
+why,dlaczego
+are you,czy jestes
