@@ -1,0 +1,5 @@
+milk,mleko
+apple,jabulko
+good,dobry
+water,woda
+excuse me,przepraszam

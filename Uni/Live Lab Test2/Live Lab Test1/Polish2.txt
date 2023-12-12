@@ -1,0 +1,5 @@
+one,jeden
+two,dwa
+three,trzy
+four,cztery
+five,piec
