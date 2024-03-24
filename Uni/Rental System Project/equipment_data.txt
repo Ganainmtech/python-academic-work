@@ -1,0 +1,4 @@
+Bicycle,25,20,0
+Surfboard,30,18,0
+Tennis Racket,10,20,0
+Tent, 38,10,0
